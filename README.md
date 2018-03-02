@@ -1,8 +1,7 @@
-# lightsocks-minami
-[![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang/lightsocks-minami)
-[![language](https://github.com/nanqinlang/SVG/blob/master/language-python-blue.svg)](https://github.com/nanqinlang/lightsocks-minami)
-[![author](https://github.com/nanqinlang/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang/lightsocks-minami)
-[![license](https://github.com/nanqinlang/SVG/blob/master/license-MIT-orange.svg)](https://github.com/nanqinlang/lightsocks-minami)
+# lightsocks-nanqinlang
+[![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang/lightsocks-nanqinlang)
+[![language](https://github.com/nanqinlang/SVG/blob/master/language-python-blue.svg)](https://github.com/nanqinlang/lightsocks-nanqinlang)
+[![author](https://github.com/nanqinlang/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang/lightsocks-nanqinlang)
 
 A modified version, based on `Python 3.6 asyncio` environment.
 
